@@ -4,7 +4,7 @@
 
 
 
-### 🌐 [Blog]([http://zxkmm.ysepan.com](https://pipe.b3log.org/blogs/zxkmm)) | [博客]([http://zxkmm.ysepan.com](https://pipe.b3log.org/blogs/zxkmm)) 🌐
+### 🌐 [Blog](https://pipe.b3log.org/blogs/zxkmm) | [博客](https://pipe.b3log.org/blogs/zxkmm) 🌐
 
 
 
