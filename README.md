@@ -1,3 +1,4 @@
+# info
 <center>
   
 | looking for postgrad school offer or job offer | 我正在找读研或者工作机会 |
@@ -9,3 +10,8 @@
 | [help me](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_en.md) | [帮助我](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_cn.md) |
 
 </center>
+
+# star history of top repos
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zxkmm/gpt2-ml-fixed,zxkmm/siyuan_doctree_compress,zxkmm/OOKFormatCalculate,zxkmm/siyuan_rmv_btn,zxkmm/siyuan_leave_to_lock,zxkmm/siyuan_marketplace_blacklist&type=Date)](https://star-history.com/#zxkmm/gpt2-ml-fixed&zxkmm/siyuan_doctree_compress&zxkmm/OOKFormatCalculate&zxkmm/siyuan_rmv_btn&zxkmm/siyuan_leave_to_lock&zxkmm/siyuan_marketplace_blacklist&Date)
