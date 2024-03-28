@@ -12,6 +12,6 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zxkmm/gpt2-ml-fixed,zxkmm/siyuan_doctree_compress,zxkmm/OOKFormatCalculate,zxkmm/siyuan_rmv_btn,zxkmm/siyuan_leave_to_lock,zxkmm/siyuan_marketplace_blacklist&type=Date)](https://star-history.com/#zxkmm/gpt2-ml-fixed&zxkmm/siyuan_doctree_compress&zxkmm/OOKFormatCalculate&zxkmm/siyuan_rmv_btn&zxkmm/siyuan_leave_to_lock&zxkmm/siyuan_marketplace_blacklist&Date)
+[Star History Chart](https://api.star-history.com/svg?repos=zxkmm/gpt2-ml-fixed,zxkmm/siyuan_doctree_compress,zxkmm/OOKFormatCalculate,zxkmm/siyuan_rmv_btn,zxkmm/siyuan_leave_to_lock,zxkmm/siyuan_marketplace_blacklist&type=Date)
 
 (It looks fake, however I assure you that every single star is real. It doesn't look flat is just because I begging stars on all of the community/ forum etc. You are free to verify the authenticity of every single user.)
