@@ -11,13 +11,16 @@
 </center>
 
 ## My work
-- The very first OOK 2262/1527 decoder with high robustness and stable algorythm
-- Multiple popular SiYuan plugins
-- HackRF-PortaPack-Mayhem radio hardware (collaboration)
-- The very second Chinese LLM since 2021 (fork)
-- Multiple Linux CLI tools
-- The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork)
-- Other useful Linux and Android small tools
+| English | Chinese |
+| --- | --- |
+| The very first OOK 2262/1527 decoder algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定算法的OOK 2262/1527解码算法 |
+| Multiple popular SiYuan plugins | 多个流行的思源笔记插件 |
+| HackRF-PortaPack-Mayhem radio hardware (collaboration) | HackRF-PortaPack-Mayhem无线电硬件固件（合作） |
+| The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中国大语言模型（分支） |
+| Multiple Linux CLI tools | 多个Linux 命令行工具 |
+| The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork) | 第一个可以从SDAU教务网获取和解码课程表数据的app（分支） |
+| Other useful Linux and Android small tools | 其他实用的Linux和Android小工具 |
+| Contributing to many other open-source projects| 对很多其他开源项目做了贡献 |
 
 ## Star History
 
