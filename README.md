@@ -10,7 +10,7 @@
 
 </center>
 
-## My work
+## My work | 作品
 | English | Chinese |
 | --- | --- |
 | The very first OOK 2262/1527 decoder algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定算法的OOK 2262/1527解码算法 |
