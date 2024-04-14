@@ -13,7 +13,7 @@
 ## My work | 作品
 | English | Chinese |
 | --- | --- |
-| The very first OOK 2262/1527 decoder algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定算法的OOK 2262/1527解码算法 |
+| The very first OOK 2262/1527 decoder algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 |
 | Multiple popular SiYuan plugins | 多个流行的思源笔记插件 |
 | HackRF-PortaPack-Mayhem radio hardware (collaboration) | HackRF-PortaPack-Mayhem无线电硬件固件（合作） |
 | The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中国大语言模型（分支） |
