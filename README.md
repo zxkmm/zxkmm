@@ -16,7 +16,7 @@
 | The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | C++ |
 | Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/TypeScript/Svelte/CSS/SCSS |
 | HackRF-PortaPack-Mayhem SDR (collaboration) | HackRF-PortaPack-Mayhem无线电工具（合作） | C/C++/ChibiOS/RTOS |
-| The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中国大语言模型（分支） | Python/Tensorflow/Jupyter/Colab |
+| The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中文大语言模型（分支） | Python/Tensorflow/Jupyter/Colab |
 | Multiple Linux CLI tools | 多个Linux 命令行工具 | C++/Rust |
 | The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork) | 第一个可以从SDAU教务网获取和解码课程表数据的app（分支） | Java/Kotlin |
 | Other useful Linux and Android small tools | 其他实用的Linux和Android小工具 | Shell/Java |
