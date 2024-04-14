@@ -10,6 +10,15 @@
 
 </center>
 
+## My work
+- The very first OOK 2262/1527 decoder with high robustness and stable algorythm
+- Multiple popular SiYuan plugins
+- HackRF-PortaPack-Mayhem radio hardware (collaboration)
+- The very second Chinese LLM since 2021 (fork)
+- Multiple Linux CLI tools
+- The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork)
+- Other useful Linux and Android small tools
+
 ## Star History
 
 [Star History Chart](https://api.star-history.com/svg?repos=zxkmm/gpt2-ml-fixed,zxkmm/siyuan_doctree_compress,zxkmm/OOKFormatCalculate,zxkmm/siyuan_rmv_btn,zxkmm/siyuan_leave_to_lock,zxkmm/siyuan_marketplace_blacklist&type=Date)
