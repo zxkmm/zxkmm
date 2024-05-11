@@ -12,7 +12,7 @@ Cyber security/ Wireless security
 </center>
 
 ## My work | 作品
-| English | Chinese | Tec Stack |
+| English | 中文 | Tec Stack |
 | --- | --- | --- |
 | The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | C++ |
 | Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/TypeScript/Svelte/CSS/SCSS |
