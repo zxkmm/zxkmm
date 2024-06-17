@@ -11,6 +11,10 @@ Cyber security/ Wireless security
 
 </center>
 
+## Score
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true)](https://github.com/zxkmm)
+
+
 ## My work | 作品
 | English | 中文 | Tec Stack |
 | --- | --- | --- |
