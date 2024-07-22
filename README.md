@@ -16,16 +16,16 @@ Cyber security / Wireless security
 
 
 ## My work | 作品
-| English | 中文 | Tech Stack |
-| --- | --- | --- |
-| The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | C++ |
-| Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/TypeScript/Svelte/CSS/SCSS |
-| HackRF-PortaPack-Mayhem SDR (collaboration) | HackRF-PortaPack-Mayhem无线电工具（合作） | C/C++/ChibiOS/RTOS |
-| The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中文大语言模型（分支） | Python/Tensorflow/Jupyter/Colab |
-| Multiple Linux CLI tools | 多个Linux 命令行工具 | C++/Rust |
-| The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork) | 第一个可以从SDAU教务网获取和解码课程表数据的app（分支） | Java/Kotlin |
-| Other useful Linux and Android small tools | 其他实用的Linux和Android小工具 | Shell/Java |
-| Contributing to many other open-source projects| 对很多其他开源项目做了贡献 | - |
+| English | 中文 | Tech Stack | Language |
+| --- | --- | --- | --- | 
+| The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | Algorithm |C++|
+| Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/Svelte | TypeScript/CSS/SCSS
+| HackRF-PortaPack-Mayhem SDR (collaboration) | HackRF-PortaPack-Mayhem无线电工具（合作） | ChibiOS/RTOS | C/C++ |
+| The very second Chinese LLM since 2021 (fork) | 自2021年以来的第二个中文大语言模型（分支） | Tensorflow/Jupyter/Colab | Python|
+| Multiple Linux CLI tools | 多个Linux 命令行工具 | Linux |C++/Rust|
+| The first class schedule app that can fetch and decode schedule data from SDAU Student Home Page (fork) | 第一个可以从SDAU教务网获取和解码课程表数据的app（分支） | Web |Java/Kotlin|
+| Other useful Linux and Android small tools | 其他实用的Linux和Android小工具 | Android/Linux |Shell/Java |
+| Contributing to many other open-source projects| 对很多其他开源项目做了贡献 | - | - |
 
 ## Star History
 
