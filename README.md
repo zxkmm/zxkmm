@@ -1,7 +1,7 @@
 <center>
 
-Cyber security/ Wireless security   
-信息安全/ 无线安全
+Cyber security / Wireless security   
+信息安全/无线安全
 | looking for postgrad school offer or job offer | 我正在找读研或者工作机会 |
 | - | - |
 | [blog](http://zxkmm.ysepan.com) | [博客](http://zxkmm.ysepan.com) |
@@ -16,7 +16,7 @@ Cyber security/ Wireless security
 
 
 ## My work | 作品
-| English | 中文 | Tec Stack |
+| English | 中文 | Tech Stack |
 | --- | --- | --- |
 | The very first OOK 2262/1527 special decode algorythm with high robustness and stable| 第一个具有高鲁棒性和稳定性的OOK 2262/1527解码算法 | C++ |
 | Multiple popular SiYuan plugins | 多个流行的思源笔记插件 | Node/TypeScript/Svelte/CSS/SCSS |
