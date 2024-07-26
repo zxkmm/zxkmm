@@ -12,7 +12,7 @@ Cyber security / Wireless security
 </center>
 
 ## Score
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true)](https://github.com/zxkmm)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/zxkmm)
 
 
 ## My open-source work | 开源作品
