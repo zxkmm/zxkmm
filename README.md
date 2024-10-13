@@ -1,8 +1,8 @@
 <center>
 
 Cyber security / Wireless security / Access control systems / Lock picking  
-信息安全/无线安全/访问控制系统/锁研究
-Play with Portapack-Mayhem and flipper-Momentum
+信息安全/无线安全/访问控制系统/锁研究  
+Play with Portapack-Mayhem, SiYuan, and and flipper-Momentum
 | looking for postgrad school offer or job offer | 我正在找读研或者工作机会 |
 | - | - |
 | [blog](http://zxkmm.ysepan.com) | [博客](http://zxkmm.ysepan.com) |
