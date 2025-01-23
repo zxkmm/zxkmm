@@ -2,7 +2,7 @@
 
 Cyber security / Wireless security / Access control systems / Lock picking  
 信息安全/无线安全/访问控制系统/锁研究  
-C++ / TypeScript / Python
+C++ / TypeScript / Python   
 Playing HackRF-PortaPack-Mayhem, SiYuan, Flipper-Momentum and RRG/Proxmark3
 | looking for postgrad school offer or job offer | 我正在找读研或者工作机会 |
 | - | - |
