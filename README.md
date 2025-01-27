@@ -8,7 +8,7 @@ Playing HackRF-PortaPack-Mayhem, SiYuan, Flipper-Momentum and RRG/Proxmark3
 | - | - |
 | [blog](http://zxkmm.ysepan.com) | [博客](http://zxkmm.ysepan.com) |
 | [email / message / contact / hire me](mailto:mw90twrch@mozmail.com) | [邮箱/联系/索要简历/offer](mailto:mw90twrch@mozmail.com) |
-| [donate](http://ys-d.ysepan.com/317882920/014692275/p5G4461286NTjNSpno64/when_user_click_donate.png)| [捐款（爱发电）]([http://ys-d.ysepan.com/317882920/014692275/p5G4461286NTjNSpno64/when_user_click_donate.png](https://afdian.com/a/zxkmm))|
+| [donate](https://afdian.com/a/zxkmm)| [捐款（爱发电）](https://afdian.com/a/zxkmm)|
 | [help me](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_en.md) | [帮助我](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_cn.md) |
 
 </center>
