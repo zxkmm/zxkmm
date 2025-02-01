@@ -14,10 +14,6 @@ Playing HackRF-PortaPack-Mayhem, SiYuan, Flipper-Momentum and RRG/Proxmark3
 </center>
 
 
-> [!NOTE]  
-> 我最近加入了**爱发电**：https://afdian.com/a/zxkmm
-
-
 
 ## Score
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/zxkmm)
