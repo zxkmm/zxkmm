@@ -11,7 +11,7 @@ Playing HackRF-PortaPack-Mayhem, SiYuan, Flipper-Momentum and RRG/Proxmark3
 | [donate](https://afdian.com/a/zxkmm)| [捐款]([https://afdian.com/a/zxkmm](https://pipe.b3log.org/blogs/zxkmm/articles/2025/02/08/1738993480704))|
 | [help me](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_en.md) | [帮助我](https://github.com/zxkmm/zxkmm/blob/main/ways_to_help_me_cn.md) |
 
-自从写开源软件以来的收入：`5`人民币
+自从写开源软件以来的收入：`10`人民币
 
 </center>
 
