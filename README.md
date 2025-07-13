@@ -6,6 +6,6 @@ Email me: zxkmm@hotmail.com
    
 
 你好，我是zxkmm，别名Sommermorgentraum和zix；  
-我懂后端，前端，嵌入式和硬件；  
+我懂后端，前端，嵌入式，硬件和无线电；  
 我在学画PCB，也在学FPGA和CPLD；  
 微信号：treshaunmann  
