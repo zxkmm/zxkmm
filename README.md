@@ -1,4 +1,4 @@
-Hello, I'm zxkmm, AKA Sommermorgentraum, AKA zix;  
+Hello, I'm zxkmm, AKA sommermorgentraum, AKA zix;  
 I do backend, frontend and emdedded development, as well as infosec, hardware and radio;  
 I write C++, JS, TS, Python *and a bit C*;  
 I'm learning PCB design and FPGA/CPLD;  
