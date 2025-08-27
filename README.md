@@ -1,7 +1,7 @@
 Hello, I'm zxkmm, AKA sommermorgentraum, AKA zix;  
 I do backend, frontend and emdedded development, as well as infosec, radio ang a bit EE;  
 I write C++, JS, TS, Python *and a bit C*;  
-I'm learning and FPGA/CPLD;  
+I'm learning FPGA/CPLD;  
 Email me: zxkmm@hotmail.com  
 
    
