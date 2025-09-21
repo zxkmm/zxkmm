@@ -12,7 +12,8 @@ Email me: zxkmm@hotmail.com
 我在学FPGA和CPLD；  
 微信号：treshaunmann  
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true)](https://github.com/88250)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=zxkmm&theme=tokyonight&show_icons=true)](https://github.com/zxkmm)
+
 
 
 
