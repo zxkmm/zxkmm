@@ -3,7 +3,7 @@
 <td width="50%">
 
 Hello, I'm zxkmm, AKA sommermorgentraum, AKA zix;  
-I do backend, frontend and emdedded development, as well as infosec, radio frequency and a bit EE;  
+I do backend and emdedded development, as well as infosec, radio frequency, audio, a bit EE and a bit frontend.
 I write C++, JS, TS, Python *and a bit C*;  
 I'm learning FPGA/CPLD;  
 I'm not working or in school currently and seeking for post grad school or new job chance.
@@ -14,7 +14,7 @@ Site: https://zxkmm.com
 <td width="50%">
 
 你好，我是zxkmm，别名Sommermorgentraum和zix；  
-我懂后端，前端，嵌入式，信息安全，射频和一点硬件；  
+我懂后端，嵌入式，信息安全，射频，音频，一点前端和一点硬件；  
 我写C++， JS，TS，Python和一点点C。  
 我在学FPGA和CPLD；  
 我现在没有工作，也没有上学，我在寻找研究生或者工作的机会。  
