@@ -7,7 +7,7 @@ I do backend and emdedded development, as well as infosec, radio frequency, audi
 I write C++, JS, TS, Python *and a bit C*;  
 I'm learning FPGA/CPLD;  
 I'm not working or in school currently and seeking for post grad school or new job chance.
-Email me: zxkmm@hotmail.com  
+Email me: contact@zxkmm.com  
 Site: https://zxkmm.com
 
 </td>
@@ -19,7 +19,7 @@ Site: https://zxkmm.com
 我在学FPGA和CPLD；  
 我现在没有工作，也没有上学，我在寻找研究生或者工作的机会。  
 微信号：treshaunmann  
-邮箱: zxkmm@hotmail.com 
+邮箱: contact@zxkmm.com 
 
 </td>
 </tr>
