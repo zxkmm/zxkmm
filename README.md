@@ -5,8 +5,8 @@
 Hello, I'm zxkmm, AKA sommermorgentraum, AKA zix;  
 I do backend and emdedded development, as well as infosec, radio frequency, audio, a bit EE and a bit frontend.
 I write C++, JS, TS, Python *and a bit C*;  
-I'm learning FPGA/CPLD;  
-Email me: contact@zxkmm.com  
+I'm learning RTL;  
+Email me: gh@zxkmm.com  
 Site: https://zxkmm.com
 
 </td>
@@ -14,10 +14,10 @@ Site: https://zxkmm.com
 
 你好，我是zxkmm，别名Sommermorgentraum和zix；  
 我懂后端，嵌入式，信息安全，射频，音频，一点前端和一点硬件；  
-我写C++， JS，TS，Python和一点点C。  
-我在学FPGA和CPLD；  
+我写C++， JS，TS，Python和一点点C;  
+我在学RTL；  
 微信号：treshaunmann  
-邮箱: contact@zxkmm.com 
+邮箱: gh@zxkmm.com 
 
 </td>
 </tr>
